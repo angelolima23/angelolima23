@@ -6,7 +6,6 @@
 
 
 ![Angelo GitHub stats](https://github-readme-stats.vercel.app/api?username=angelolima23&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelolima23&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnoloias que eu uso no meu dia 🤙
